@@ -1,0 +1,102 @@
+#Saved from version 0.50.02 on 2025-04-05
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Jigabachi
+</Name>
+
+<Model>
+AV-21-D
+</Model>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<role>
+Sniper
+</role>
+
+<quirks>
+imp_target_long
+good_rep_2
+imp_target_med
+fast_reload
+gas_hog
+</quirks>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor>
+25
+19
+19
+15
+2
+</armor>
+
+<Body Equipment>
+ImprovedSmartRoboticControlSystem
+ISGuardianECMSuite
+IS Ammo SRM-4 Tandem-Charge
+IS Ammo Thunderbolt-10
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+</Body Equipment>
+
+<Front Equipment>
+SRM 4
+Thunderbolt 10
+ISRotaryAC5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+ISC3SlaveUnit
+ISMastMount
+</Rotor Equipment>
+
+<source>
+GITS(SAC)
+</source>
+
+<tonnage>
+55.0
+</tonnage>
+

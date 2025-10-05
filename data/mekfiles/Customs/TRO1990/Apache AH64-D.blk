@@ -1,0 +1,103 @@
+#Saved from version 0.50.02 on 2025-04-05
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Apache
+</Name>
+
+<Model>
+AH64-D
+</Model>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Clan Level 2
+</type>
+
+<quirks>
+imp_target_long
+good_rep_2
+imp_target_med
+fast_reload
+gas_hog
+</quirks>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+8
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor>
+20
+18
+18
+11
+2
+7
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-4
+IS Ammo Thunderbolt-5
+ISMagshotGR Ammo
+</Body Equipment>
+
+<Front Equipment>
+Thunderbolt 5
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+ISC3SlaveUnit
+ISMastMount
+</Rotor Equipment>
+
+<Turret Equipment>
+ISMagshotGR
+</Turret Equipment>
+
+<source>
+1990
+</source>
+
+<tonnage>
+23.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+

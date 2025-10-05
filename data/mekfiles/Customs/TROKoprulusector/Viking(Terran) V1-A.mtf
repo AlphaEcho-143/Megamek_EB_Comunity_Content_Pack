@@ -1,0 +1,164 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-24
+chassis:Viking(Terran)
+model:V1-A
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+quirk:exp_actuator
+quirk:easy_pilot
+quirk:compact_mech
+quirk:easy_maintain
+quirk:fast_reload
+quirk:anti_air
+
+mass:55
+engine:330 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+ejection:Full Head Ejection System
+
+heat sinks:12 IS Double
+walk mp:6
+jump mp:6
+
+armor:Standard(Inner Sphere)
+LA armor:18
+RA armor:18
+LT armor:20
+RT armor:20
+CT armor:27
+HD armor:8
+LL armor:26
+RL armor:26
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:8
+MML 5, Right Torso
+MML 5, Left Torso
+Machine Gun, Right Arm
+Machine Gun, Right Arm
+Machine Gun, Right Arm
+Machine Gun, Left Arm
+Machine Gun, Left Arm
+Machine Gun, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Machine Gun
+Machine Gun
+Machine Gun
+IS Ammo MG - Full
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Machine Gun
+Machine Gun
+Machine Gun
+IS Ammo MG - Full
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISPartialWing
+ISPartialWing
+ISPartialWing
+ISPartialWing
+Jump Jet
+ISMML5
+ISMML5
+ISMML5
+IS Ammo MML-5 LRM
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISPartialWing
+ISPartialWing
+ISPartialWing
+ISPartialWing
+Jump Jet
+ISMML5
+ISMML5
+ISMML5
+IS Ammo MML-5 SRM
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+IS Ammo MML-5 SRM
+IS Ammo MML-5 LRM
+IS Endo Steel
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

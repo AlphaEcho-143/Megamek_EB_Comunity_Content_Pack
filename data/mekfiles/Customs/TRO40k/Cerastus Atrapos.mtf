@@ -1,0 +1,154 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-09
+chassis:Cerastus
+model:Atrapos
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:40k
+rules level:5
+
+
+mass:80
+engine:400 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:20 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:25
+RA armor:20
+LT armor:27
+RT armor:27
+CT armor:40
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:10
+
+Weapons:4
+Laser AMS, Left Torso
+Small Pulse Laser, Right Arm
+Heavy Large Laser, Right Arm
+Thumper Cannon, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannonAmmo
+Blue Shield Particle Field Damper
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLHeavyLargeLaser
+CLSmallPulseLaser
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISThumperCannonAmmo
+Blue Shield Particle Field Damper
+CLLaserAntiMissileSystem
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Blue Shield Particle Field Damper
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Blue Shield Particle Field Damper
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

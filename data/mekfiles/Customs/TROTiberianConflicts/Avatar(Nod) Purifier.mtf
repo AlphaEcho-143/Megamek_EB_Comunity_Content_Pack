@@ -1,0 +1,161 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-08
+chassis:Avatar(Nod)
+model:Purifier
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3145
+source:2030 (C&C)
+rules level:5
+
+quirk:battle_fists_ra
+quirk:exp_actuator
+quirk:fine_manipulators
+quirk:stable
+weaponquirk:stable_weapon:RA:4:CLImprovedHeavyLargeLaser
+weaponquirk:accurate:RA:4:CLImprovedHeavyLargeLaser
+
+mass:70
+engine:350 XL (Clan) Engine
+structure:IS Standard
+myomer:Triple-Strength
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:15 Clan Double
+nocrit:ImprovedSmartRoboticControlSystem:None
+walk mp:5
+jump mp:0
+
+armor:Hardened(Inner Sphere)
+LA armor:14
+RA armor:14
+LT armor:16
+RT armor:16
+CT armor:22
+HD armor:9
+LL armor:20
+RL armor:20
+RTL armor:5
+RTR armor:5
+RTC armor:7
+
+Weapons:4
+ER Flamer, Right Torso
+ER Flamer, Left Torso
+Heavy Flamer, Left Arm
+Improved Heavy Large Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heavy Flamer
+IS Heavy Flamer Ammo
+ISClaw
+ISClaw
+ISClaw
+ISClaw
+ISClaw
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLImprovedHeavyLargeLaser
+CLImprovedHeavyLargeLaser
+CLImprovedHeavyLargeLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLERFlamer (T)
+ISShoulderTurret
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERFlamer (T)
+ISShoulderTurret
+CLTargeting Computer
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

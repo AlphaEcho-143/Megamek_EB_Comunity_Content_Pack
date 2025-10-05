@@ -1,0 +1,113 @@
+#Saved from version 0.50.02 on 2025-09-26
+<UnitType>
+ProtoMek
+</UnitType>
+
+<Name>
+EXO(Europa)
+</Name>
+
+<Model>
+M1
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 5
+</type>
+
+<quirks>
+poor_sealing
+easy_pilot
+rugged_1
+</quirks>
+
+<weaponQuirks>
+exposed_linkage:T:0:CLSRM4
+exposed_linkage:MG:0:CLProtoMechAC4
+</weaponQuirks>
+
+<motion_type>
+Biped
+</motion_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<jumpingMP>
+0
+</jumpingMP>
+
+<interface_cockpit>
+false
+</interface_cockpit>
+
+<engine_type>
+0
+</engine_type>
+
+<clan_engine>
+false
+</clan_engine>
+
+<armor_type>
+42
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+4
+10
+5
+5
+12
+5
+</armor>
+
+<Body Equipment>
+Clan Ammo SRM-4 (13)
+Clan Light Machine Gun Ammo - Proto (51)
+Clan ProtoMech AC/4 Ammo (23)
+</Body Equipment>
+
+<Head Equipment>
+</Head Equipment>
+
+<Torso Equipment>
+CLSRM4
+CLLightMG
+CLLightMG
+</Torso Equipment>
+
+<Right Arm Equipment>
+</Right Arm Equipment>
+
+<Left Arm Equipment>
+</Left Arm Equipment>
+
+<Legs Equipment>
+</Legs Equipment>
+
+<Main Gun Equipment>
+CLProtoMechAC4
+</Main Gun Equipment>
+
+<tonnage>
+13.0
+</tonnage>
+

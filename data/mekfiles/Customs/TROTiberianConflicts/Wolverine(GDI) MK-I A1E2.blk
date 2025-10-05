@@ -1,0 +1,127 @@
+#Saved from version 0.50.02 on 2025-03-08
+<UnitType>
+ProtoMek
+</UnitType>
+
+<Name>
+Wolverine(GDI)
+</Name>
+
+<Model>
+MK-I A1E2
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 5
+</type>
+
+<quirks>
+easy_pilot
+easy_maintain
+obsolete
+prototype
+rugged_2
+</quirks>
+
+<weaponQuirks>
+stable_weapon:RA:0:CLLightMG
+stable_weapon:LA:0:CLLightMG
+</weaponQuirks>
+
+<motion_type>
+Biped
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<jumpingMP>
+8
+</jumpingMP>
+
+<interface_cockpit>
+false
+</interface_cockpit>
+
+<engine_type>
+0
+</engine_type>
+
+<clan_engine>
+false
+</clan_engine>
+
+<armor_type>
+42
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+4
+8
+2
+2
+6
+</armor>
+
+<Body Equipment>
+Clan Light Machine Gun Ammo - Half (27)
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+CLMyomerBooster
+Clan Ammo SRM-1 (Clan) Tandem-Charge (4)
+Clan Light Machine Gun Ammo - Proto (2)
+</Body Equipment>
+
+<Head Equipment>
+</Head Equipment>
+
+<Torso Equipment>
+CLSRM1
+</Torso Equipment>
+
+<Right Arm Equipment>
+CLLightMG
+</Right Arm Equipment>
+
+<Left Arm Equipment>
+CLLightMG
+</Left Arm Equipment>
+
+<Legs Equipment>
+</Legs Equipment>
+
+<overview>
+Wolverines were widely mass produced during the Second Tiberium War. However, they were produced and utilized by GDI against Nod troops in minor skirmishes as early as 2023.
+</overview>
+
+<source>
+TRO/2030 (C&C)
+</source>
+
+<tonnage>
+5.0
+</tonnage>
+

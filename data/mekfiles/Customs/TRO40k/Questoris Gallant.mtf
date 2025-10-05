@@ -1,0 +1,153 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-10
+chassis:Questoris
+model:Gallant
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:40k
+rules level:5
+
+
+mass:60
+engine:300 Light Engine(IS)
+structure:Clan Endo Steel
+myomer:Triple-Strength
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:10 Single
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:21
+RT armor:21
+CT armor:30
+HD armor:9
+LL armor:28
+RL armor:28
+RTL armor:7
+RTR armor:7
+RTC armor:10
+
+Weapons:3
+Laser AMS, Right Torso
+Small Laser, Left Torso
+LRM 15, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISClaw
+ISClaw
+ISClaw
+ISClaw
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Chainsaw
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Small Laser
+Clan Ammo LRM-15 (Clan) Smoke
+Clan Ammo LRM-15 (Clan) Mine Clearance
+Supercharger
+Blue Shield Particle Field Damper
+CLLightActiveProbe
+Clan Endo Steel
+Clan Endo Steel
+Triple Strength Myomer
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLaserAntiMissileSystem
+Blue Shield Particle Field Damper
+Clan Endo Steel
+Clan Endo Steel
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15
+Blue Shield Particle Field Damper
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

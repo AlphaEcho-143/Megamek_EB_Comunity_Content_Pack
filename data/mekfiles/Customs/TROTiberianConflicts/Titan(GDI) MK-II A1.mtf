@@ -1,0 +1,170 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-08
+chassis:Titan(GDI)
+model:MK-II A1
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+source:TRO/2030 (C&C)
+rules level:5
+
+quirk:ext_twist
+quirk:cowl
+quirk:exp_actuator
+quirk:no_eject
+quirk:compact_mech
+quirk:no_arms
+quirk:fast_reload
+quirk:obsolete
+quirk:low_profile
+quirk:searchlight
+quirk:rugged_2
+weaponquirk:stable_weapon:RA:3:Light Auto Cannon/5
+weaponquirk:accurate:RA:3:Light Auto Cannon/5
+weaponquirk:exposed_linkage:RA:5:Light Machine Gun
+weaponquirk:stable_weapon:LT:0:Light Machine Gun
+weaponquirk:exposed_linkage:LT:0:Light Machine Gun
+
+mass:50
+engine:250 Fusion Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:10 Single
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:11
+RA armor:16
+LT armor:20
+RT armor:20
+CT armor:26
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:4
+RTR armor:4
+RTC armor:6
+
+Weapons:5
+Light AC/5, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Left Torso
+TAG, Left Torso
+Anti-Missile System, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+Light Machine Gun
+IS Precision Ammo LAC/5
+IS Flechette Ammo LAC/5
+IS Armor-Piercing Ammo LAC/5
+ISCASEII
+-Empty-
+-Empty-
+
+Left Torso:
+Light Machine Gun (T)
+ISShoulderTurret
+ISTAG (T)
+ISChaffPod
+ISChaffPod
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Torso:
+ISAMS Ammo
+IS Light Machine Gun Ammo - Half
+ISChaffPod
+ISAntiMissileSystem
+ISChaffPod
+ISCASE
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3SlaveUnit
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:The Titan MKII utilizes a complex array of alloy spars, high-tech servos, and fibrous tendons which allow high-speed locomotion upon two armored legs. The materials required to build this system are expensive, but the Titan is able to move fast enough to keep pace with most tracked vehicles on the battlefield. The legs are able to balance the crew compartment and power plant while also bearing the weight of over 10 tons of advanced battle armor. The elevated turret affords better command-seating, granting the gunner a clear shot regardless of impeding terrain.
+

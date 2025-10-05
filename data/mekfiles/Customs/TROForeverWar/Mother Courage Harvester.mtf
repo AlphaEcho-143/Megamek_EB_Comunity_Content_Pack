@@ -1,0 +1,156 @@
+generator:MegaMek Suite 0.50.02 on 2025-10-03
+chassis:Mother Courage
+model:Harvester
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3145
+rules level:5
+
+quirk:bad_rep_is
+quirk:no_eject
+quirk:fine_manipulators
+quirk:easy_maintain
+quirk:distracting
+quirk:low_profile
+quirk:bad_rep_clan
+
+mass:45
+engine:135 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 Clan Double
+walk mp:3
+jump mp:3
+
+armor:Standard(Inner Sphere)
+LA armor:14
+RA armor:14
+LT armor:17
+RT armor:17
+CT armor:21
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:5
+RTR armor:5
+RTC armor:7
+
+Weapons:0
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISClaw
+ISClaw
+ISClaw
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISClaw
+ISClaw
+ISClaw
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+Cargo:SIZE:0.5
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+MechanicalJumpBooster
+MechanicalJumpBooster
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+MechanicalJumpBooster
+MechanicalJumpBooster
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

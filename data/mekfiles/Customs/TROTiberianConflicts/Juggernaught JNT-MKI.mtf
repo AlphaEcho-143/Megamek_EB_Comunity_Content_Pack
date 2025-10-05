@@ -1,0 +1,160 @@
+generator:MegaMek Suite 0.50.02 on 2025-04-12
+chassis:Juggernaught
+model:JNT-MKI
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+quirk:ext_twist
+quirk:exp_actuator
+quirk:no_eject
+quirk:stable
+quirk:no_arms
+quirk:fast_reload
+
+mass:80
+engine:240 Compact Engine(IS)
+structure:IS Standard
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 IS Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:3
+RA armor:3
+LT armor:5
+RT armor:5
+CT armor:5
+HD armor:8
+LL armor:4
+RL armor:4
+RTL armor:1
+RTR armor:1
+RTC armor:1
+
+Weapons:3
+Thumper, Left Torso
+Thumper, Right Torso
+Thumper, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISThumper
+ISThumper
+ISThumper
+ISThumperAmmo
+ISThumperAmmo
+ISThumperAmmo
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+-Empty-
+
+Left Torso:
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+
+Right Torso:
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+ISThumper
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+icon:iVBORw0KGgoAAAANSUhEUgAAAFQAAABICAMAAABfoSITAAADAFBMVEUPD38AUgACBAcYGBgbGxsdHR0eHh4fHx8gICAhISEiIiIjIyMlJSUmJiYnJycoKCgpKSkqKiorKyssLCwtLS0uLi4vLy8wMDAxMTEyMjIzMzM0NDQ1NTU2NjY3Nzc4ODg5OTk6Ojo7Ozs8PDw9PT0+Pj4/Pz9AQEBBQUFCQkJDQ0NERERFRUVGRkZHR0dISEhJSUlKSkpLS0tMTExNTU1OTk5PT09QUFBRUVFSUlJTU1NUVFRVVVVWVlZXV1dYWFhZWVlaWlpbW1tcXFxdXV1eXl5fX19gYGBhYWFiYmJjY2NkZGRlZWVmZmZnZ2doaGhpaWlqampra2tsbGxtbW1ubm5vb29wcHBxcXFycnJzc3N0dHR1dXV2dnZ3d3d4eHh5eXl6enp7e3t8fHx9fX1+fn5/f3+AgICBgYGCgoKDg4OEhISFhYWGhoaHh4eIiIiJiYmKioqLi4uMjIyNjY2Ojo6Pj4+QkJCRkZGSkpKTk5OUlJSVlZWWlpaXl5eYmJiZmZmampqbm5ucnJydnZ2enp6fn5+goKChoaGioqKjo6OkpKSlpaWmpqanp6eoqKipqamqqqqrq6usrKytra2urq6vr6+wsLCxsbGysrKzs7O1tbW2tra3t7e4uLi5ubm6urq7u7u8vLy9vb2+vr6/v7/AwMDBwcHCwsLDw8PExMTFxcXGxsbHx8fIyMjJycnKysrLy8vMzMzNzc3Ozs7Pz8/R0dHS0tLT09PU1NTV1dXW1tbX19fY2NjZ2dnb29vc3Nzd3d3e3t7f39/g4ODh4eHi4uLk5OTl5eXm5ubn5+fo6Ojp6enq6urr6+vs7Ozu7u7v7+/w8PDx8fHy8vLz8/P09PT19fX39/f4+Pj5+fn6+vr7+/v8/Pz+/v7///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnH89gAAAAAXRSTlMAQObYZgAABl1JREFUeF7tl/1vE3Ucxz/37T30ee26dmyrFN0DKGQI40mDBpaghpCgxEThJ0hMjL8Zf9CY8CcYHzAmGv1BiTwaniREEKOCieIDwzE3xthg67aOdevWa3vtXXv3Pa/XdWu/1/b4wV9MeC30/b3vfe/F974P1yvAQx7yn0KRFSTbBMfPlbIWNFlBsPU1/xS+asyaILKCIGZpSMQrZE3MpEK/0mSpkDUxk2at4qRSIWtiJpXC4vJ8z8isidlEYXk0K1fImpgtKRvjouhRY9bErKdoWSNMVsiamEkpq00fdzJrYibNT2VhiMisgen/WjQQuXHjwnElTKWkLZ/rYJ3Xu6HYwIi5tAI88BY6QdYuYSqlLEjvY2mqoKpUjZE1ldYFAoaUtT821FXarAzT2eej2JByUBZxLlnarAxTqaqoKpnb7emrCgqu7ylvuojp7RfHrpBr9WQQU//c1gnr2tKGJZj2tHxFJfS8AuD0ZBSotgDMpFrH9NteSLuee4MTJ3KUiu1k6wXMpCClFX2GCtnvyqe/U8IYcHyQbLxABal7IfWbQ1PzVL5DZRkbj2GgXNWcFaTu/Xp4P8h/Nj+1MmDlz/1K5Lk3ECCm9KoyjFKA84wFlDpwa11VV2x/hBk+iYgc4GBpCo0YpO79h3esovHM0ecvaUecL8CB3ZhUrV1qlAJY92rrb/Ziev+XCbC6MKgCGLKW0ih1tp3f9bi2IwLvHvRBNx/Cd1glysITRBZpLMT0YoUOKVVYxqEXXJzNibqlzQ2S2uH/MEikNtpjds14wqG9BCBqF0B75vqihJTm1rSsjlIyRXvepEeioYiLmlBDXsFJpMKeAfjJNj3wSUbbta9/sZraAo2L/SWl0LCiC4lhV5PSG+DE4KwYblWHELBEHoSPlyHRlvuma701d/fTt6nkaVV+pTgMhgeKJCOYb/dk1Nl70IhByTKslMsa8i1X0i8CzrVue2b7BkpWpxsU10dFh6GnPgfM+Clumr/hyKBRUa/DSTLhfTgzHAKwsFlGwdrEtd1y7lx0GKSgiioNSDqgFb2P8noVpvOLvTTPHjv8Ehz1ZzaPnwoIkW6UkA+UrAGDNBaY92qX7T20JvXeVZbSH1GIIvNy7tXItX0AXzHai9U6+57yVWWQOrj8myKGkI1pgWSu8IiiyNw81hr7pb3reHZl/nAWDpwtlRomyq7XWD7fHR36C/qTYv4VjwIyrY5AK+xcBXPzcZ6Pz4KvrHOGniYyKU6rbIbd2vayTwk4SWvzkCZSlNMShCh4Z+GqscKOWcAgVbCbERQLOj2snozM8ommO1xbWCVzjB4MAwPX4Lr3u4s7Tr3Q83upwyCtr2sGddaDPDnGI03EJhz1jlxSIbPTI8wDxhghuzU+nbl2s8xBSimszRPvirtp7YUhNePrT2oLd0wAIl3gYCCbFVhFxZlLbLnTIFXDdRjR9+l6EO/GInM+j8fnxDwHRPL1ggRCJmbPiDlLcI6QkFLgkmFn6viLcSXqtTXOyKmoZINIhsxeBvGQTNx3xugYGyxskSVIqTowNWjJ/SN5lTQ7d5tJjoQ5luIzZDbNdLQcEuKT1vD45fWFvVsCKYU/9M+RwkH3jwpQiKLFESKnJVmByTSrjksi6xhdulyn2vfCyk0MpHrVPftc2sFwW7FaLyWPnaGfbc591tDIZufHGtrT/NLzWaeaFPwixe57zL5DK460LlXr5R+k8SMIo/ByXqHjLVQ9MfnG2y8it9L36jv037ZSSbVedgQTKKxl/p/2A2ii5LxOValK25nooDNfLH1r0MupaCw/KlWpKsWY7bzAvJx/Dq4Y6ijW3m7RPhLhc3R/SVMDVaWKorq34FOtT9sBi8rCb1xlTngSwa0LfeVtSar+IrbZVEyl7vntWSHnjHj1B6J804qmlyX+HoiQrcup2tOEhC0WkL/OruKcjc5+tgOpI4JkgSzfc+QG2ZigqtRpt6D8V1yfJLGhTUE0oNjaUK5Pbo33Gx7sJFVvn2NAjWcUISlzWf+s3+EONCKw+F2J698XNl0NqkqzKI0FWVLFTMTtSTkwpmltNGJTf377G9nUQNUdtYSvudmx2ud21dFZ/tbd3l7yvJEHkWboTl+z025Vp/gr3BB5ugIPIG2ZBA/u5Gga93D6xjSl6uwvoX1RxqFPpihblDz1kP83/wJI+Sl8dtGSPgAAAABJRU5ErkJggg==
+

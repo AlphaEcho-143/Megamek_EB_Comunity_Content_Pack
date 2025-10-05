@@ -1,0 +1,98 @@
+#Saved from version 0.50.02 on 2025-03-26
+<UnitType>
+ProtoMek
+</UnitType>
+
+<Name>
+XV8
+</Name>
+
+<Model>
+Sunforge
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 5
+</type>
+
+<motion_type>
+Biped
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<jumpingMP>
+5
+</jumpingMP>
+
+<interface_cockpit>
+false
+</interface_cockpit>
+
+<engine_type>
+0
+</engine_type>
+
+<clan_engine>
+false
+</clan_engine>
+
+<armor_type>
+42
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+2
+6
+2
+2
+5
+</armor>
+
+<Body Equipment>
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+ExtendedJumpJetSystem
+</Body Equipment>
+
+<Head Equipment>
+</Head Equipment>
+
+<Torso Equipment>
+</Torso Equipment>
+
+<Right Arm Equipment>
+ISERSmallLaser
+</Right Arm Equipment>
+
+<Left Arm Equipment>
+ISERSmallLaser
+</Left Arm Equipment>
+
+<Legs Equipment>
+</Legs Equipment>
+
+<tonnage>
+5.0
+</tonnage>
+

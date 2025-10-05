@@ -1,0 +1,167 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-26
+chassis:Stilt Walker(Europan)
+model:M1
+
+Config:Quad
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+quirk:imp_target_long
+quirk:no_eject
+quirk:imp_target_med
+quirk:distracting
+quirk:weak_legs
+weaponquirk:accurate:RT:3:Thunderbolt 10
+weaponquirk:accurate:RT:5:Thunderbolt 10
+weaponquirk:exposed_linkage:RT:5:Thunderbolt 10
+weaponquirk:accurate:LT:0:Thunderbolt 10
+weaponquirk:exposed_linkage:LT:0:Thunderbolt 10
+weaponquirk:accurate:LT:2:Thunderbolt 10
+weaponquirk:exposed_linkage:LT:2:Thunderbolt 10
+
+mass:80
+engine:240 Fuel Cell Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 IS Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+FLL armor:10
+FRL armor:10
+LT armor:10
+RT armor:10
+CT armor:12
+HD armor:9
+RLL armor:10
+RRL armor:10
+RTL armor:2
+RTR armor:2
+RTC armor:3
+
+Weapons:6
+Thunderbolt 10, Right Torso
+Thunderbolt 10, Right Torso
+Thunderbolt 10, Left Torso
+Thunderbolt 10, Left Torso
+Anti-Missile System, Center Torso
+Rotary AC/2, Center Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Thunderbolt 10
+Thunderbolt 10
+Thunderbolt 10
+Thunderbolt 10
+IS Ammo Thunderbolt-10
+IS Ammo Thunderbolt-10
+ISRotaryAC2 Ammo
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Torso:
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Thunderbolt 10
+Thunderbolt 10
+Thunderbolt 10
+Thunderbolt 10
+IS Ammo Thunderbolt-10
+IS Ammo Thunderbolt-10
+ISRotaryAC2 Ammo
+IS Endo Steel
+IS Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+ISAMS Ammo
+ISAntiMissileSystem
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

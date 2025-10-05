@@ -1,0 +1,88 @@
+#Saved from version 0.50.02 on 2025-04-05
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Cyborg Squad
+</Name>
+
+<Model>
+Anti Armor
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 2
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Troopers Equipment>
+Environment Suit, Marine
+AntiMekGear
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Tiberian Conflict 2030
+</source>
+
+<squad_size>
+10
+</squad_size>
+
+<squadn>
+1
+</squadn>
+
+<secondn>
+4
+</secondn>
+
+<Primary>
+Pulse Laser Rifle (Tirbuni)
+</Primary>
+
+<Secondary>
+InfantryHeavySRM
+</Secondary>
+
+<spacesuit>
+true
+</spacesuit>
+
+<specialization>
+2112
+</specialization>
+
+<augmentation>
+artificial_pain_shunt
+boost_comm_implant
+cyber_imp_visual
+enh_mm_implants
+dermal_armor
+tsm_implant
+pl_masc
+suicide_implants
+</augmentation>
+
+<icon>
+iVBORw0KGgoAAAANSUhEUgAAAFQAAABICAYAAABof9IhAAABmUlEQVR4Xu3Z3ZGCMBRAYVuwE0vYani0BeugCVvYBugpTsJfvIQHkxvCXM43w7igw6xn0JB4uwEAAAAAAAAAfuScPIIid4LqIqgygmrxIR1By4WQfd+HjaBlopBfVyhRM4mYY9DoGH7khmEI8Wb+73pB/flt3+cmg/pj83Hx+iLP58u93/+q5zwbGW/ZJ2i+ZWDaDlAEzVUtYuzYoO2/q13XdYaCnuN+uuo/ccWgVRFU2UFBp68t40Efj78Q028+rHxeQQh5mTWJykETt3zG1ySOCOof1830msTdbYOqfiSTU2hrQaM3MwadNxFU400ng9aaQrciJgrxFbnGVJpMyHhV1yQaGQeFKNhmW59T+fgftibRiI+0jLRfb3A7GqsE9axFTNpcMWJfm9bXyGntDhj+UbxWS63znkKLoKbJ0VbuI8PeCIwCyxU6bQBwce1/WTRGbcqIEUGVEVTLdC9J0FIh5DrbIWgJOW2cgxI1U2IV3PQvi9Ull+EImi8ZlKW4fDLesk/QfHvrmgQtQMQKzP+y2AIxAQAA8AGeCl2mvbOooAAAAABJRU5ErkJggg==
+</icon>
+

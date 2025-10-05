@@ -1,0 +1,172 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-08
+chassis:Titan(GDI)
+model:MK-III A1
+
+Config:Biped
+techbase:Inner Sphere
+era:3069
+source:TRO/2030 (C&C)
+rules level:5
+
+quirk:imp_target_long
+quirk:ext_twist
+quirk:cowl
+quirk:exp_actuator
+quirk:compact_mech
+quirk:difficult_maintain
+quirk:fast_reload
+quirk:low_profile
+quirk:searchlight
+quirk:rugged_2
+weaponquirk:stable_weapon:RA:3:ISGaussRifle
+weaponquirk:accurate:RA:3:ISGaussRifle
+weaponquirk:fast_reload:RA:3:ISGaussRifle
+weaponquirk:stable_weapon:LT:2:Light Machine Gun
+weaponquirk:exposed_linkage:LT:2:Light Machine Gun
+weaponquirk:stable_weapon:LT:5:ISTAG
+
+mass:60
+engine:300 Light Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:XL Gyro
+ejection:Full Head Ejection System
+
+heat sinks:10 Single
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:11
+RA armor:16
+LT armor:20
+RT armor:20
+CT armor:26
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:4
+RTR armor:4
+RTC armor:6
+
+Weapons:5
+Thunderbolt 5, Left Arm
+Gauss Rifle, Right Arm
+Light Machine Gun, Left Torso
+TAG, Left Torso
+Anti-Missile System, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Thunderbolt 5
+IS Ammo Thunderbolt-5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo
+IS Gauss Ammo
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Light Machine Gun (T)
+IS Light Machine Gun Ammo - Half
+ISShoulderTurret
+ISTAG (T)
+ISChaffPod
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISAMS Ammo
+ISChaffPod
+ISAntiMissileSystem
+ISC3SlaveUnit
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

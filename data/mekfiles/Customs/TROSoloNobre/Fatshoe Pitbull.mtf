@@ -1,0 +1,161 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-15
+chassis:Fatshoe
+model:Pitbull
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+quirk:ext_twist
+quirk:no_eject
+quirk:stable
+quirk:no_arms
+quirk:imp_target_med
+quirk:easy_maintain
+quirk:low_profile
+
+mass:70
+engine:350 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 Single
+walk mp:5
+jump mp:0
+
+armor:Patchwork
+LA armor:IS Standard(Inner Sphere):10
+RA armor:IS Standard(Inner Sphere):10
+LT armor:IS Industrial (Inner Sphere):13
+RT armor:IS Industrial (Inner Sphere):13
+CT armor:IS Industrial (Inner Sphere):16
+HD armor:IS Industrial (Inner Sphere):7
+LL armor:IS Standard(Inner Sphere):30
+RL armor:IS Standard(Inner Sphere):30
+RTL armor:7
+RTR armor:7
+RTC armor:7
+
+Weapons:5
+AC/10, Right Torso
+MRM 20, Center Torso
+M-Pod, Right Leg
+M-Pod, Left Leg
+M-Pod, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISChaffPod
+ISChaffPod
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISMPod (R)
+IS MRM 20 Ammo
+IS MRM 20 Ammo
+IS Armor-Piercing Ammo AC/10
+IS Armor-Piercing Ammo AC/10
+ISChaffPod
+ISChaffPod
+Supercharger
+IS Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+IS Ammo AC/10
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+MRM 20
+MRM 20
+MRM 20
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+Lift Hoist/Arresting Hoist
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMPod
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMPod
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

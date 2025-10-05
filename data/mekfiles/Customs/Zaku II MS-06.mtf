@@ -1,0 +1,157 @@
+generator:MegaMek Suite 0.50.1 on 2024-12-08
+chassis:Zaku II
+model:MS-06
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:2
+
+quirk:bad_rep_is
+quirk:battle_fists_la
+quirk:battle_fists_ra
+quirk:bad_rep_clan
+quirk:ubiquitous_clan
+quirk:rugged_2
+quirk:ubiquitous_is
+weaponquirk:jettison_capable:RA:4:ISUltraAC5
+weaponquirk:exposed_linkage:RA:4:ISUltraAC5
+
+mass:60
+engine:240 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:10 Single
+walk mp:4
+jump mp:6
+
+armor:Standard(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:22
+RT armor:22
+CT armor:30
+HD armor:9
+LL armor:28
+RL armor:28
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:1
+Ultra AC/5, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+
+Left Torso:
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

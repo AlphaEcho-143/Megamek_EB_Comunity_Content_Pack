@@ -1,0 +1,161 @@
+generator:MegaMek Suite 0.50.02 on 2025-10-03
+chassis:Mother Courage
+model:Combat
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3145
+rules level:5
+
+quirk:bad_rep_is
+quirk:no_eject
+quirk:fine_manipulators
+quirk:compact_mech
+quirk:easy_maintain
+quirk:distracting
+quirk:bad_rep_clan
+quirk:rugged_2
+
+mass:45
+engine:225 XL (Clan) Engine
+structure:IS Standard
+myomer:Triple-Strength
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 Clan Double
+walk mp:5
+jump mp:4
+
+armor:Standard(Inner Sphere)
+LA armor:14
+RA armor:14
+LT armor:17
+RT armor:17
+CT armor:21
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:5
+RTR armor:5
+RTC armor:7
+
+Weapons:4
+AP Gauss Rifle, Left Arm
+ER Flamer, Left Arm
+AP Gauss Rifle, Right Arm
+ER Flamer, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLAPGaussRifle
+CLERFlamer
+CLAPGaussRifle Ammo
+ISClaw
+ISClaw
+ISClaw
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLAPGaussRifle
+CLERFlamer
+CLAPGaussRifle Ammo
+ISClaw
+ISClaw
+ISClaw
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLECMSuite
+Supercharger
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+MechanicalJumpBooster
+MechanicalJumpBooster
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+MechanicalJumpBooster
+MechanicalJumpBooster
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

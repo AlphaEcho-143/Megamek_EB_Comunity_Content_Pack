@@ -1,0 +1,100 @@
+#Saved from version 0.50.02 on 2025-03-09
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Bradley
+</Name>
+
+<Model>
+M2A1
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+troopspace:1.0
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor>
+18
+12
+12
+10
+12
+</armor>
+
+<Body Equipment>
+IS Ammo Thunderbolt-5
+IS Precision Ammo LAC/2
+IS Flechette Ammo LAC/2
+IS Armor-Piercing Ammo LAC/2
+IS Light Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Light Machine Gun
+Thunderbolt 5
+Light Auto Cannon/2
+ISChaffPod
+</Turret Equipment>
+
+<source>
+TRO 1990
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+
+<extra_seats>
+1
+</extra_seats>
+

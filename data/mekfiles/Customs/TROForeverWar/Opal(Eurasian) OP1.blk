@@ -1,0 +1,110 @@
+#Saved from version 0.50.02 on 2025-09-27
+<UnitType>
+ProtoMek
+</UnitType>
+
+<Name>
+Opal(Eurasian)
+</Name>
+
+<Model>
+OP1
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 5
+</type>
+
+<quirks>
+easy_pilot
+rugged_1
+</quirks>
+
+<weaponQuirks>
+stable_weapon:RA:0:Machine Gun
+stable_weapon:LA:0:Machine Gun
+</weaponQuirks>
+
+<motion_type>
+Biped
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<jumpingMP>
+5
+</jumpingMP>
+
+<interface_cockpit>
+false
+</interface_cockpit>
+
+<engine_type>
+0
+</engine_type>
+
+<clan_engine>
+false
+</clan_engine>
+
+<armor_type>
+42
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+3
+8
+4
+4
+7
+</armor>
+
+<Body Equipment>
+ProtoMechJumpJet
+ProtoMechJumpJet
+ProtoMechJumpJet
+ProtoMechJumpJet
+ProtoMechJumpJet
+Clan Machine Gun Ammo - Proto (200)
+</Body Equipment>
+
+<Head Equipment>
+</Head Equipment>
+
+<Torso Equipment>
+ProtoMechPartialWing
+</Torso Equipment>
+
+<Right Arm Equipment>
+Machine Gun
+</Right Arm Equipment>
+
+<Left Arm Equipment>
+Machine Gun
+</Left Arm Equipment>
+
+<Legs Equipment>
+</Legs Equipment>
+
+<tonnage>
+9.0
+</tonnage>
+

@@ -1,0 +1,158 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-22
+chassis:Goliath(Terran)
+model:G2
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+
+mass:45
+engine:225 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Small Cockpit
+gyro:XL Gyro
+
+heat sinks:10 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:10
+RA armor:10
+LT armor:15
+RT armor:15
+CT armor:18
+HD armor:9
+LL armor:18
+RL armor:18
+RTL armor:5
+RTR armor:5
+RTC armor:5
+
+Weapons:9
+Machine Gun, Head
+SRM 4, Right Arm
+SRM 4, Left Arm
+SRM 4, Right Arm
+SRM 4, Left Arm
+Light AC/5, Right Arm
+Light AC/5, Left Arm
+Machine Gun, Right Arm
+Machine Gun, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+SRM 4
+SRM 4
+Machine Gun
+IS Ammo SRM-4 Tandem-Charge
+IS Flechette Ammo LAC/5
+IS Endo Steel
+IS Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+SRM 4
+SRM 4
+Machine Gun
+IS Ammo SRM-4
+IS Armor-Piercing Ammo LAC/5
+IS Endo Steel
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Flak Ammo LAC/5
+IS Machine Gun Ammo - Half
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+IS Ammo SRM-4 Inferno
+Machine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

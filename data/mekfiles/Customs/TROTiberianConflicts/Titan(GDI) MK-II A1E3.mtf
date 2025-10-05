@@ -1,0 +1,174 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-10
+chassis:Titan(GDI)
+model:MK-II A1E3
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+source:TRO/2030 (C&C)
+rules level:5
+
+quirk:ext_twist
+quirk:cowl
+quirk:exp_actuator
+quirk:no_eject
+quirk:compact_mech
+quirk:no_arms
+quirk:fast_reload
+quirk:sensor_ghosts
+quirk:prototype
+quirk:low_profile
+quirk:searchlight
+quirk:anti_air
+quirk:rugged_2
+weaponquirk:stable_weapon:LA:3:Light Auto Cannon/5
+weaponquirk:accurate:LA:3:Light Auto Cannon/5
+weaponquirk:stable_weapon:RA:3:Light Auto Cannon/5
+weaponquirk:accurate:RA:3:Light Auto Cannon/5
+weaponquirk:exposed_linkage:RA:5:Light Machine Gun
+weaponquirk:stable_weapon:LT:0:Light Machine Gun
+weaponquirk:exposed_linkage:LT:0:Light Machine Gun
+weaponquirk:stable_weapon:LT:3:ISTAG
+
+mass:50
+engine:250 Fusion Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:10 Single
+walk mp:5
+jump mp:0
+
+armor:Reactive(Inner Sphere)
+LA armor:13
+RA armor:14
+LT armor:20
+RT armor:20
+CT armor:26
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:4
+RTR armor:4
+RTC armor:6
+
+Weapons:5
+Light AC/5, Left Arm
+Light AC/5, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Left Torso
+TAG, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+IS Reactive
+IS Reactive
+IS Reactive
+IS Reactive
+IS Reactive
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+Light Machine Gun
+IS Reactive
+IS Reactive
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Light Machine Gun (T)
+IS Flechette Ammo LAC/5
+ISShoulderTurret
+ISTAG (T)
+ISChaffPod
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Reactive
+
+Right Torso:
+IS Precision Ammo LAC/5
+IS Armor-Piercing Ammo LAC/5
+IS Light Machine Gun Ammo - Half
+ISChaffPod
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Reactive
+IS Reactive
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3SlaveUnit
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Reactive
+IS Reactive
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Reactive
+IS Reactive
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

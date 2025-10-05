@@ -1,0 +1,179 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-08
+chassis:Titan(GDI)
+model:MK-I A2
+
+Config:Biped
+techbase:Inner Sphere
+era:3069
+source:TRO/2030 (C&C)
+rules level:5
+
+quirk:ext_twist
+quirk:cowl
+quirk:exp_actuator
+quirk:no_eject
+quirk:compact_mech
+quirk:no_arms
+quirk:easy_maintain
+quirk:fast_reload
+quirk:obsolete
+quirk:searchlight
+quirk:rugged_2
+quirk:imp_target_short
+weaponquirk:stable_weapon:RA:3:Light Auto Cannon/5
+weaponquirk:accurate:RA:3:Light Auto Cannon/5
+weaponquirk:exposed_linkage:RA:3:Light Auto Cannon/5
+weaponquirk:fast_reload:RA:3:Light Auto Cannon/5
+weaponquirk:exposed_linkage:RA:5:Light Machine Gun
+weaponquirk:stable_weapon:LT:0:Light Machine Gun
+weaponquirk:exposed_linkage:LT:0:Light Machine Gun
+weaponquirk:stable_weapon:LT:2:ISTAG
+
+mass:45
+engine:135 Fuel Cell Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:10 Single
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:6
+RA armor:14
+LT armor:15
+RT armor:15
+CT armor:18
+HD armor:9
+LL armor:19
+RL armor:19
+RTL armor:4
+RTR armor:4
+RTC armor:5
+
+Weapons:4
+Light AC/5, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Left Torso
+TAG, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Light Auto Cannon/5
+Light Auto Cannon/5
+Light Machine Gun
+IS Armor-Piercing Ammo LAC/5
+IS Precision Ammo LAC/5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Light Machine Gun (T)
+ISShoulderTurret
+ISTAG (T)
+ISChaffPod
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+IS Light Machine Gun Ammo - Half
+ISChaffPod
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3SlaveUnit
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:The Titan was developed in the 21st century as a tactically-superior replacement to the aging GDI medium tank. At the height of concurrent technology, combined with locomotive designs first tested in the X-O Powersuit and a skeletal frame forged from the world's strongest materials, the Titan was a powerful walker.
+
+At around 25 feet tall, possessing powerful legs capable of traversing any terrain with ease, and armed with a formidable laser-guided 120mm side-mounted cannon, the Titan was a fearsome battle walker. Its great stature and deadly cannon allowed it to tactically dominate surface engagements - able to fire over obstructions and hit with incredible accuracy, whilst its all-terrain legs bestowed a pace that was plodding, but steady - capable of moving at full speed across any terrain and incline, no matter how rugged or steep. 
+
+However, the Titan still suffered from its low speed and inability to effectively combat infantry units. The faster Wolverines were used for this purpose, although it should be noted that Titans, especially in large groups: could simply trample infantry under their massive feet.
+
+The Titan chassis has been used extensively by GDI, and many advanced walkers used either newer versions of the Titan chassis or modified ones. An example of this approach was the Juggernaut. 
+

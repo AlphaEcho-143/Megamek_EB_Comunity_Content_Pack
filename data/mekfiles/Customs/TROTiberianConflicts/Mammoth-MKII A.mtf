@@ -1,0 +1,173 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-08
+chassis:Mammoth-MKII
+model:A
+
+Config:Quad
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+quirk:oversized
+quirk:cowl
+quirk:no_eject
+quirk:easy_pilot
+quirk:stable
+quirk:difficult_maintain
+quirk:distracting
+quirk:prototype
+quirk:reinforced_legs
+quirk:non_standard
+quirk:searchlight
+quirk:anti_air
+weaponquirk:direct_torso_mount:CT:5:Machine Gun
+weaponquirk:direct_torso_mount:CT:6:Machine Gun
+
+mass:200
+engine:400 XL Engine(IS)
+structure:IS Endo-Composite
+myomer:Standard
+cockpit:Superheavy Cockpit
+gyro:Superheavy Gyro
+
+heat sinks:10 IS Double
+walk mp:2
+jump mp:0
+
+armor:Hardened(Inner Sphere)
+FLL armor:60
+FRL armor:60
+LT armor:52
+RT armor:52
+CT armor:76
+HD armor:12
+RLL armor:60
+RRL armor:60
+RTL armor:25
+RTR armor:25
+RTC armor:30
+
+Weapons:10
+Heavy Gauss Rifle, Left Torso
+Heavy Gauss Rifle, Right Torso
+SRM 6, Right Torso
+SRM 6, Left Torso
+SRM 6, Right Torso
+SRM 6, Left Torso
+Machine Gun, Center Torso
+Machine Gun, Center Torso
+Laser AMS, Right Torso
+Laser AMS, Left Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyGauss Ammo
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyGauss Ammo
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+SRM 6
+SRM 6 (R)
+IS Ammo SRM-6
+ISLaserAntiMissileSystem
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+SRM 6
+SRM 6 (R)
+IS Ammo SRM-6 Tandem-Charge
+ISLaserAntiMissileSystem
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Machine Gun
+Machine Gun
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Machine Gun Ammo - Half
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyGauss Ammo
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISHeavyGauss Ammo
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

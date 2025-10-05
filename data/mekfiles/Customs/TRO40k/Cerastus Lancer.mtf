@@ -1,0 +1,151 @@
+generator:MegaMek Suite 0.50.02 on 2025-03-10
+chassis:Cerastus
+model:Lancer
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:40k
+rules level:5
+
+
+mass:80
+engine:400 Light Engine(IS)
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:24
+RA armor:24
+LT armor:26
+RT armor:26
+CT armor:36
+HD armor:9
+LL armor:31
+RL armor:31
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:1
+Laser AMS, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Blue Shield Particle Field Damper
+IS Lance
+IS Lance
+IS Lance
+IS Lance
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Blue Shield Particle Field Damper
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+ISLargeShield
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Blue Shield Particle Field Damper
+CLLaserAntiMissileSystem
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Blue Shield Particle Field Damper
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Blue Shield Particle Field Damper
+Supercharger
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Blue Shield Particle Field Damper
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

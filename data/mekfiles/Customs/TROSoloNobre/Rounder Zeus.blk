@@ -1,0 +1,101 @@
+#Saved from version 0.50.02 on 2025-09-30
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Rounder
+</Name>
+
+<Model>
+Zeus
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Mixed (Clan Chassis) Unofficial
+</type>
+
+<quirks>
+difficult_maintain
+fast_reload
+low_profile
+non_standard
+imp_sensors
+</quirks>
+
+<weaponQuirks>
+mod_weapons:TU:0:CLGaussRifle
+accurate:TU:0:CLGaussRifle
+mod_weapons:TU:1:CLMediumPulseLaser
+</weaponQuirks>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+BattleArmorHandles - troopers:-1
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+3
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor>
+69
+57
+57
+45
+57
+</armor>
+
+<Body Equipment>
+Clan Gauss Ammo
+Clan Gauss Ammo
+CLArmoredMotiveSystem
+CLAPGaussRifle Ammo
+Blue Shield Particle Field Damper
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLMediumPulseLaser
+CLAPGaussRifle
+</Turret Equipment>
+
+<tonnage>
+70.0
+</tonnage>
+

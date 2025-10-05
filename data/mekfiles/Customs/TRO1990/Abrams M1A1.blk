@@ -1,0 +1,92 @@
+#Saved from version 0.50.02 on 2025-03-09
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Abrams
+</Name>
+
+<Model>
+M1A1
+</Model>
+
+<year>
+3145
+</year>
+
+<originalBuildYear>
+3145
+</originalBuildYear>
+
+<type>
+Clan Level 2
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor>
+61
+50
+50
+39
+50
+</armor>
+
+<Body Equipment>
+IS Light Machine Gun Ammo - Half
+IS Armor-Piercing Ammo LAC/5
+IS Armor-Piercing Ammo LAC/5
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Light Machine Gun
+Light Machine Gun
+ISChaffPod
+ISChaffPod
+Light Machine Gun
+Light Auto Cannon/5
+</Turret Equipment>
+
+<source>
+TRO 1990
+</source>
+
+<tonnage>
+60.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+

@@ -1,0 +1,152 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-26
+chassis:War Dog
+model:Brigand
+
+Config:Biped
+techbase:Inner Sphere
+era:3145
+rules level:5
+
+
+mass:35
+engine:175 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 IS Double
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:12
+RA armor:12
+LT armor:12
+RT armor:12
+CT armor:17
+HD armor:9
+LL armor:16
+RL armor:16
+RTL armor:4
+RTR armor:4
+RTC armor:5
+
+Weapons:3
+Snub-Nose PPC, Right Arm
+Rotary AC/2, Left Arm
+Light Machine Gun, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2
+ISRotaryAC2 Ammo
+ISRotaryAC2 Ammo
+ISRotaryAC2 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISSNPPC
+ISSNPPC
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Light Machine Gun
+IS Light Machine Gun Ammo - Half
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,174 @@
+generator:MegaMek Suite 0.50.02 on 2025-09-26
+chassis:Medium Mech(Europan)
+model:A1
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3145
+rules level:5
+
+quirk:difficult_eject
+quirk:ext_twist
+quirk:cowl
+quirk:exp_actuator
+quirk:stable
+quirk:distracting
+quirk:rugged_2
+quirk:multi_trac
+weaponquirk:exposed_linkage:RT:4:CLLightMG
+weaponquirk:direct_torso_mount:CT:6:ISRotaryAC2
+weaponquirk:exposed_linkage:CT:6:ISRotaryAC2
+weaponquirk:static_feed:CT:6:ISRotaryAC2
+
+mass:75
+engine:300 Fusion (Clan) Engine
+structure:IS Standard
+myomer:Standard
+cockpit:Interface Cockpit
+gyro:None
+
+heat sinks:10 Clan Double
+walk mp:4
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:23
+RA armor:23
+LT armor:22
+RT armor:22
+CT armor:34
+HD armor:8
+LL armor:30
+RL armor:30
+RTL armor:10
+RTR armor:10
+RTC armor:12
+
+Weapons:11
+Gauss Rifle, Left Arm
+Machine Gun, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Light Machine Gun, Right Torso
+Rotary AC/2, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Gauss Ammo
+Clan Gauss Ammo
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLMG (T)
+CLMG (T)
+CLMG (T)
+CLMG (T)
+Clan Machine Gun Ammo - Half
+ISShoulderTurret
+ISChaffPod
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLMG (T)
+CLMG (T)
+CLMG (T)
+CLMG (T)
+CLLightMG
+IS Light Machine Gun Ammo - Half
+Clan Machine Gun Ammo - Half
+ISShoulderTurret
+ISChaffPod
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISRotaryAC2 (R)
+ISRotaryAC2 (R)
+ISRotaryAC2 (R)
+ISRotaryAC2 Ammo
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+icon: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
+
